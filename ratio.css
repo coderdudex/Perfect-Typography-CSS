@@ -1,0 +1,31 @@
+.container {
+    max-width: 50%;
+}
+
+.default-ratio {
+    line-height: 1.2;
+}
+
+.golden-ratio {
+    line-height: 1.618;
+}
+
+.silver-ratio {
+    line-height: 2.4142135623;
+}
+
+.sq-2 {
+    line-height: 1.41421356237;
+}
+
+.sq-3 {
+    line-height: 1.73205080757;
+}
+
+.sq-5 {
+    line-height: 2.2360679775;
+}
+
+.pi {
+    line-height: 3.14159265359;
+}
